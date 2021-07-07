@@ -1,0 +1,1 @@
+(self.webpackChunksyrf_devdocs=self.webpackChunksyrf_devdocs||[]).push([[4278],{8290:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/sailing-yacht-research-foundation.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
