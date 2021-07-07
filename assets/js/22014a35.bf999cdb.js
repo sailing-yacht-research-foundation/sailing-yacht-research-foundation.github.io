@@ -1,1 +1,0 @@
-(self.webpackChunksyrf_devdocs=self.webpackChunksyrf_devdocs||[]).push([[7913],{4290:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/sailing-yacht-research-foundation.github.io/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/sailing-yacht-research-foundation.github.io/blog/tags/hello"}')}}]);
